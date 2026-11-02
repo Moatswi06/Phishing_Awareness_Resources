@@ -1,4 +1,4 @@
-##1.**How to avoid phishing**
+# **How to avoid phishing**
 
 **Think before you click**- Do not click links without verifying their origin and always check with the organization first if the email is legitimate.
 
@@ -6,7 +6,7 @@
 
 Use of spam filtering to filer out suspicious emails and use anti phishing tools.
 
-##1.**Incident Report Tips**
+# **Incident Report Tips**
 
 **Containment:** Stop an incident from spreading and limit damage by isolating affected machines from the serves and disable compromised accounts and apply fixes like network segmentation.
 
